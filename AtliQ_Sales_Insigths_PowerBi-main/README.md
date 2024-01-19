@@ -19,17 +19,17 @@ The sales director of the company is facing a lot of issues in terms of understa
 #### Initial Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Inital_report.png" width="550" class="center">
+<img src="https://github.com/Imran-sk-t/Sales_Insights/blob/main/AtliQ_Sales_Insigths_PowerBi-main/DATASET/Inital_report.png" width="550" class="center">
 
 #### Updated Dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/Final_report.png" width="550" class="center">
+<img src="https://github.com/Imran-sk-t/Sales_Insights/blob/main/AtliQ_Sales_Insigths_PowerBi-main/DATASET/Final_report.png" width="550" class="center">
 
 #### Interactive dashboard
 
 ---
-<img src="https://github.com/Naveen-S6/AtliQ_Sales_Insigths_PowerBi/blob/main/DATASET/GIF.gif" width="600" class="center">
+<img src="https://github.com/Imran-sk-t/Sales_Insights/blob/main/AtliQ_Sales_Insigths_PowerBi-main/DATASET/GIF.gif" width="600" class="center">
 
 
 
